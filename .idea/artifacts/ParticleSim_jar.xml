@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ParticleSim:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ParticleSim_jar</output-path>
+    <root id="archive" name="ParticleSim.jar">
+      <element id="module-output" name="NEAT" />
+    </root>
+  </artifact>
+</component>
