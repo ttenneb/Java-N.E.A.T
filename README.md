@@ -6,4 +6,5 @@ Example of different Nueral Networks being tested and assigned a fitness score, 
 ![](res/Training.gif)
 
 Example of network trained to avoid red squares.
+
 ![](res/trained.gif)
